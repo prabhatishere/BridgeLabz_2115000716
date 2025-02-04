@@ -1,23 +1,370 @@
-DAY 0 (19th Jan, 2025) --> The assignment given on 19th Jan containing basic programs is done inside main/Features/feature_19_01_2025
+BridgeLabz_2115000033 - Progress Tracker
 
-DAY 1 (21st Jan, 2025) --> This assignment is to make us better in taking user inputs, creating variables, the use of right data types etc.
+16-01-25
 
-DAY 2 (22nd Jan, 2025) --> This assignment is to make us better in Control Flow questions, using Concepts like If-Else, Switch etc.
+Installed Git Bash.
 
-DAY 3 (23rd Jan, 2025) --> This assignment contains problems of Loops, Swich Case etc.
+Learned the basics of Git and GitHub.
 
-DAY 4 (24th Jan, 2025) --> This assignment is about Arrays (1D & 2D), Declaration, Array Input, Array Manipulation.
+17-01-25
 
-DAY 5 (25th Jan, 2025) --> More problems on arrays
+Practiced basic Git Bash commands.
 
-DAY 6 (26th Jan, 2025) --> Moderate Array Problems
+Started working on IntelliJ IDEA for Java development.
 
-DAY 7 (27th Jan, 2025) --> More Moderate Problems on Arrays
+18-01-25
 
-DAY 8 (28th Jan, 2025) --> Problems on Methods, Use of static keyword
+Learned Java basic concepts.
 
-DAY 9 (30th Jan, 2025) --> Practice on Classes and Objects
+Practiced Java syntax for a better understanding of the language.
 
-DAY 10 (31st Jan, 2025) --> Constructors & Access Modifiers (private, default, public, protected)
+19-01-25 (Created Branch Feature-19/01/25)
 
-DAY 11 (3rd Feb, 2025) --> Learnt the use of some important keywords like this,static, final, instanceof.
+Covered Java fundamentals and basic syntax.
+
+Solved an assignment based on Java basics which include:
+
+areaOfCircle.java
+
+celsiusToFahrenheit.java
+
+KmsToMiles.java
+
+powerCalculation.java
+
+perimeterOfRectangle.java
+
+simpleInterest.java
+
+addTwoNumbers.java
+
+volumeOfACylinder.java
+
+welcomeToBridgeLaz.java
+
+Learned Git branching and how to manipulate GitHub data using Git and Git Bash.
+
+Practiced cloning projects from open-source repositories to the local environment.
+
+21-01-25 (Created Branch Feature-21/01/25)
+
+Solved Level 1 assignment, focusing on Java basic syntax:
+
+AgeOfHarry.java
+
+Average.java
+
+Calculator.java
+
+DC.java
+
+DiscountCalculator.java
+
+Distance.java
+
+DistanceConverter.java
+
+Earth.java
+
+HSC.java
+
+Solved Level 2 assignment, with advanced Java programming elements (L2 folder):
+
+ChocolateDistribution.java
+
+City.java
+
+DOperation.java
+
+Operation.java
+
+Park.java
+
+PoundsToKilograms.java
+
+Quotient.java
+
+Simple.java
+
+Swap.java
+
+Temp.java
+
+TemperatureConversion.java
+
+TotalIncome.java
+
+Strengthened understanding of beginner Java concepts.
+
+23-01-25 (Created Branch Feature-23/01/25)
+
+Solved Level 1 assignment (Basics of Arrays in Java):
+
+BothSumFor.java
+
+Both_Sum.java
+
+Divisible_by_5.java
+
+EmployeeBonus.java
+
+Factorial.java
+
+FactorialFor.java
+
+Largest.java
+
+MultiplicationTable.java
+
+Natural.java
+
+NumCheck.java
+
+OddEvenNumbers.java
+
+RocketLaunch.java
+
+RocketLaunchUsingFor.java
+
+Smallest.java
+
+Spring.java
+
+SumUntilZero.java
+
+SumUntilZeroOrNegative.java
+
+Vote.java
+
+Solved Level 2 assignment (Multi-Dimensional Arrays in Java):
+
+BMICalculator.java
+
+FBWhile.java
+
+Factors.java
+
+FizzBuzz.java
+
+GreatestFactor.java
+
+Leap.java
+
+LeapYear.java
+
+Multiple.java
+
+Power.java
+
+PrimeNumberCheck.java
+
+Student.java
+
+YTFriend.java
+
+Solved Level 3 assignment (L3 folder):
+
+Abundant.java
+
+Armstrong.java
+
+Calculator.java
+
+DayOfWeek.java
+
+DigitCounter.java
+
+Harshad.java
+
+Strengthened understanding of Arrays in Java concepts.
+
+24-01-25 (Created Branch Feature-24/01/25)
+
+Solved Level 1 assignment (L1 folder), focusing on Array practice:
+
+ArrayInput.java
+
+Copy2D.java
+
+FindFactors.java
+
+FizzBuzz.java
+
+Heights.java
+
+Multiplication.java
+
+MultiplicationT.java
+
+NumberAnalysis.java
+
+OddEven.java
+
+Voting.java
+
+Solved Level 2 assignment (L2 folder), focusing on Array practice:
+
+BMICalculator.java
+
+BMICalculator2DArray.java
+
+DigitFrequency.java
+
+EmployeeBonusCalculator.java
+
+FriendsComparison.java
+
+LargestDigits.java
+
+LargestDigitsDynamic.java
+
+ReverseNumberArray.java
+
+StudentGradeCalculator.java
+
+StudentGradeCalculator2D.java
+
+28-01-25 (Created Branch Feature-28/01/25)
+
+Solved Level 1 assignment (L1 folder), focusing on method calling using objects:
+
+Program_01.java
+
+Program_02.java
+
+Program_03.java
+
+Program_04.java
+
+Program_05.java
+
+Program_06.java
+
+Program_07.java
+
+Program_08.java
+
+Program_09.java
+
+Program_10.java
+
+Program_11.java
+
+Program_12.java
+
+Strengthened understanding of objects, methods, and function calls.
+
+29-01-25 (Created Branch Feature-29/01/25)
+
+Solved JavaString (String folder), focusing on String questions:
+
+Anagram.java
+
+CompareString.java
+
+ConsonantsAndVowels.java
+
+FrequentCharacter.java
+
+LongestWord.java
+
+PalindromeString.java
+
+RemoveDuplicate.java
+
+ReverseString.java
+
+SpecificCharacter.java
+
+SubString.java
+
+ToggleCase.java
+
+WordReplace.java
+
+Solved Built-in functions assignment:
+
+BasicCalculator.java
+
+FactorialRecursion.java
+
+FibonacciGenerator.java
+
+GCDLCMCalculator.java
+
+MaxOfThree.java
+
+NumberGame.java
+
+PalindromeChecker.java
+
+PrimeChecker.java
+
+TemperatureConvertor.java
+
+Strengthened understanding of Built-in functions.
+
+30-01-25 (Created Branch Feature-30/01/25)
+
+Solved Class and Object assignment:
+
+Book.java
+
+Circle.java
+
+Employee.java
+
+Learned about Object Creation, Abstract Class, and Interface Implementation.
+
+31-01-25 (Created Branch Feature-31/01/25)
+
+Solved Level 1 assignment based on Java Constructors:
+
+BankAccountManagement.java
+
+BookLibrarySystem.java
+
+CarRentalSystem.java
+
+ConstructorChaining.java
+
+CopyConstructor.java
+
+DefaultAndParameterizedConstructor.java
+
+EmployeeRecords.java
+
+HotelBookingSystem.java
+
+LibraryBookingSystem.java
+
+OnlineCourseManagement.java
+
+ProductInventory.java
+
+UniversityManagementSystem.java
+
+VehicleRegistration.java
+
+03-02-25
+
+Solved Level 1 Lab assignment, focusing on instance and class variables:
+
+BankAccount.java
+
+Book.java
+
+Employee.java
+
+Patient.java
+
+Product.java
+
+Student.java
+
+Vehicle.java
+
+Strengthened understanding of Data Hiding using Access Specifiers.
+
+04-02-2025
+
