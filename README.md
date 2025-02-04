@@ -1,24 +1,24 @@
 BridgeLabz_2115000033 - Progress Tracker
 
-16-01-25
+# 16-01-25
 
 Installed Git Bash.
 
 Learned the basics of Git and GitHub.
 
-17-01-25
+# 17-01-25
 
 Practiced basic Git Bash commands.
 
 Started working on IntelliJ IDEA for Java development.
 
-18-01-25
+# 18-01-25
 
 Learned Java basic concepts.
 
 Practiced Java syntax for a better understanding of the language.
 
-19-01-25 (Created Branch Feature-19/01/25)
+# 19-01-25 (Created Branch Feature-19/01/25)
 
 Covered Java fundamentals and basic syntax.
 
@@ -46,7 +46,7 @@ Learned Git branching and how to manipulate GitHub data using Git and Git Bash.
 
 Practiced cloning projects from open-source repositories to the local environment.
 
-21-01-25 (Created Branch Feature-21/01/25)
+# 21-01-25 (Created Branch Feature-21/01/25)
 
 Solved Level 1 assignment, focusing on Java basic syntax:
 
@@ -96,7 +96,7 @@ TotalIncome.java
 
 Strengthened understanding of beginner Java concepts.
 
-23-01-25 (Created Branch Feature-23/01/25)
+# 23-01-25 (Created Branch Feature-23/01/25)
 
 Solved Level 1 assignment (Basics of Arrays in Java):
 
@@ -178,7 +178,7 @@ Harshad.java
 
 Strengthened understanding of Arrays in Java concepts.
 
-24-01-25 (Created Branch Feature-24/01/25)
+# 24-01-25 (Created Branch Feature-24/01/25)
 
 Solved Level 1 assignment (L1 folder), focusing on Array practice:
 
@@ -224,7 +224,7 @@ StudentGradeCalculator.java
 
 StudentGradeCalculator2D.java
 
-28-01-25 (Created Branch Feature-28/01/25)
+# 28-01-25 (Created Branch Feature-28/01/25)
 
 Solved Level 1 assignment (L1 folder), focusing on method calling using objects:
 
@@ -304,7 +304,7 @@ TemperatureConvertor.java
 
 Strengthened understanding of Built-in functions.
 
-30-01-25 (Created Branch Feature-30/01/25)
+# 30-01-25 (Created Branch Feature-30/01/25)
 
 Solved Class and Object assignment:
 
@@ -316,7 +316,7 @@ Employee.java
 
 Learned about Object Creation, Abstract Class, and Interface Implementation.
 
-31-01-25 (Created Branch Feature-31/01/25)
+# 31-01-25 (Created Branch Feature-31/01/25)
 
 Solved Level 1 assignment based on Java Constructors:
 
@@ -346,7 +346,7 @@ UniversityManagementSystem.java
 
 VehicleRegistration.java
 
-03-02-25
+# 03-02-25
 
 Solved Level 1 Lab assignment, focusing on instance and class variables:
 
@@ -366,5 +366,5 @@ Vehicle.java
 
 Strengthened understanding of Data Hiding using Access Specifiers.
 
-04-02-2025
+# 04-02-2025
 
