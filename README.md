@@ -350,21 +350,21 @@ VehicleRegistration.java
 
 Solved Level 1 Lab assignment, focusing on instance and class variables:
 
-BankAccount.java
+BankAccountSystem.java
 
-Book.java
+LibraryManagementSystem.java
 
-Employee.java
+EmployeeManagementSystem.java
 
-Patient.java
+HospitalManagementSystem.java
 
-Product.java
+ShoppingCartSystem.java
 
-Student.java
+UniversityStudentManagement.java
 
-Vehicle.java
+VehicleRegistrationSystem.java
 
-Strengthened understanding of Data Hiding using Access Specifiers.
+Strengthened understanding of this, static, final, and instanceof keywords.
 
 # 04-02-2025
 
