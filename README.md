@@ -314,7 +314,7 @@ Circle.java
 
 Employee.java
 
-Learned about Object Creation, Abstract Class, and Interface Implementation.
+Learnt about Object Creation, Abstract Class, and Interface Implementation.
 
 # 31-01-25 (Created Branch Feature-31/01/25)
 
@@ -368,3 +368,22 @@ Strengthened understanding of this, static, final, and instanceof keywords.
 
 # 04-02-2025
 
+Solved some problems on OOP Design, and Made some Diagrams like Class, Object, Sequence.
+
+UniversityDemoo.java
+
+ECommerceDemo.java
+
+HospitalDemo.java
+
+UniversityDemo.java
+
+SchoolDemo.java
+
+CompanyDemo.java
+
+BankDemo.java
+
+LibraryDemo.java
+
+Learnt to make Object,Class, and Sequence diagrams and implement them into code.
