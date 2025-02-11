@@ -11,7 +11,7 @@
 - **Learned Java basic concepts**: Covered fundamental concepts like variables, data types, loops, conditional statements, and methods in Java.
 - **Practiced Java syntax for a better understanding of the language**: Applied the basic concepts by writing simple Java programs.
 
-## 19-01-25 (Created Branch Feature-19/01/25)
+## 19-01-25 
 - **Area.java**: Program to calculate the area of different shapes (e.g., square, rectangle, circle).
 - **CTF.java**: A simple program solving a problem related to converting a value from Celsius to Fahrenheit or vice versa.
 - **KToM.java**: Program that converts kilometers to miles.
@@ -26,7 +26,7 @@
   
   **Cloned open-source repositories**: Practiced cloning open-source projects from GitHub to the local machine.
 
-## 21-01-25 (Created Branch Feature-21/01/25)
+## 21-01-25 
 - **Age.java**: A program that calculates the age of a person based on their birth year and the current year.
 - **Average.java**: Computes the average of a set of numbers provided by the user.
 - **Calculator.java**: A basic calculator program performing operations like addition, subtraction, multiplication, and division.
@@ -56,7 +56,7 @@
 - **TemperatureConversion.java**: Converts temperatures between different units (Celsius, Fahrenheit, Kelvin).
 - **TotalIncome.java**: Computes total income based on multiple input parameters, such as salary and additional earnings.
 
-## 23-01-25 (Created Branch Feature-23/01/25)
+## 23-01-25 
 ### Solved Level 1 assignment (Basics of Arrays in Java):
 - **BothSumFor.java**: Computes the sum of elements in two arrays.
 - **Both_Sum.java**: Similar to `BothSumFor.java`, but might focus on a specific operation or method.
@@ -100,7 +100,7 @@
 - **Harshad.java**: Checks if a number is a Harshad number (divisible by the sum of its digits).
 
 
-## 28-01-25 (Created Branch Feature-28/01/25)
+## 28-01-25 
 - Solved Level 1 assignment (L1 folder), focusing on method calling using objects:
   - **Program_01.java**: Demonstrate calling methods using objects.
   - **Program_02.java**: Basic method calling example.
@@ -116,7 +116,7 @@
   - **Program_12.java**: Complex example of method calls with objects.
 - Strengthened understanding of objects, methods, and function calls.
 
-## 29-01-25 (Created Branch Feature-29/01/25)
+## 29-01-25 
 - Solved JavaString (String folder), focusing on String questions:
   - **Anagram.java**: Check if two strings are anagrams.
   - **CompareString.java**: Compare two strings.
@@ -143,14 +143,14 @@
   - **TemperatureConvertor.java**: Convert temperature between units.
 - Strengthened understanding of Built-in functions.
 
-## 30-01-25 (Created Branch Feature-30/01/25)
+## 30-01-25 
 - Solved Class and Object assignment:
   - **Book.java**: Implement a class for book details.
   - **Circle.java**: Class to calculate properties of a circle.
   - **Employee.java**: Employee class with various attributes.
 - Learned about Object Creation, Abstract Class, and Interface Implementation.
 
-## 31-01-25 (Created Branch Feature-31/01/25)
+## 31-01-25 
 - Solved Level 1 assignment based on Java Constructors:
   - **BankAccountManagement.java**: Management of bank accounts with constructors.
   - **BookLibrarySystem.java**: Library system management with constructors.
@@ -189,7 +189,7 @@
   - **LibraryDemo.java**: Library management demo.
 - Learned to make Object, Class, and Sequence diagrams and implement them into code.
 
-## 06-02-25 (Created Branch Feature-06/02/25)
+## 06-02-25
 - Understood the concepts of class and Objects deeply (its creation, memory allocation, etc.):
   - Solved problems on the topic:
     - **LibrarySystem.java**: Library system design using objects.
@@ -203,7 +203,7 @@
   - Understood and drew the Object Diagram, Class Diagram, and Sequence Diagram.
   - Uploaded a PDF containing Object, Class, and Sequence Diagrams.
 
-## 08-02-25 (Created Branch Feature-07/02/25)
+## 08-02-25
 - Understood the concept of Inheritance in detail (Types, Key features, etc.):
   - Solved problems on the topic:
     - **AnimalHierarchy.java**: Demonstrate inheritance with animal classes.
@@ -219,7 +219,7 @@
     - **VehicleManagement.java**: Vehicle management with inheritance.
 - Goal: Explore more about inheritance and deeply understand each topic covered under it.
 
-## 9-02-25 (Created Branch Feature-10/02/25)
+## 9-02-25 
 - Understood the concept and Implementation of Encapsulation in detail (its salient features, etc.):
   - Solved problems on the topic:
     - **EmployeeManagementSystem.java**: Encapsulation applied in employee system.
@@ -232,7 +232,7 @@
     - **RideHailingApplication.java**: Ride-hailing app using encapsulation.
   - Learning: Explored how encapsulation works with Method Overriding using getter and setter concepts.
 
-## 10-02-25 (Created Branch Feature-11/02/25)
+## 10-02-25 
 - Understood the concepts of LinkedList and its implementation in detail (like Singly, Doubly, Circular [their concepts and implementation]):
   - Solved program on the topic:
     - **Singly Linked List: Student Record Management.**
