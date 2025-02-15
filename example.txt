@@ -1,0 +1,10 @@
+Java is the best Programming Language.
+----------------
+Hello 🌍! Unicode test: ✔️💡🎉
+----------------
+Hello, World!
+This is a UTF-8 encoded text file.
+----------------
+Café, résumé, naïve, façade
+你好, こんにちは, 안녕하세요 (Chinese, Japanese, Korean)
+----------------
