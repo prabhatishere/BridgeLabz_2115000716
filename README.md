@@ -245,3 +245,51 @@
     - **Doubly Linked List: Employee Hierarchy System.**
     - **Circular Linked List: Game Score Tracker.**
     - **Singly Linked List: Event Management System.**
+      
+## 12-02-25
+- Understood the concepts of Stack, Queue, and HashMap. And their implementation with Array and LinkedList:
+  - Solved program on the topic:
+
+- **CircularTour.java: Determines the starting point of a circular tour where a vehicle can complete the journey without running out of fuel.**
+- **CustomHashMap.java: Implements a custom HashMap with key-value pairs and basic operations like put, get, and remove.**
+- **LongestConsecutiveSequence.java: Finds the longest consecutive sequence of numbers in an unsorted array.**
+- **PairWithGivenSum.java: Identifies pairs of numbers in an array that sum up to a given target.**
+- **QueueUsingStacks.java: Implements a queue using two stacks to perform enqueue and dequeue operations.**
+- **SlidingWindowMaximum.java: Finds the maximum value in each sliding window of a given size in an array.**
+- **StackSortUsingRecursion.java: Sorts a stack using recursion without using any extra data structures.**
+- **StockSpan.java: Computes the stock span problem, determining how many consecutive days stock prices were less than or equal to today’s price.**
+- **TwoSum.java: Finds two numbers in an array that add up to a specified target value.**
+- **ZeroSumSubarrays.ja: Counts the number of subarrays with a sum equal to zero.**
+  
+## 13-02-25
+- Understood the working of all sorting algorithms:
+  - Solved program on the topic:
+  - 
+- **BubbleSort.java**: Implements the Bubble Sort algorithm to repeatedly swap adjacent elements if they are in the wrong order.  
+- **CountingSortExample.java**: Demonstrates Counting Sort, a non-comparative sorting algorithm that sorts elements based on their frequency.  
+- **HeapSortExample.java**: Implements Heap Sort using a binary heap data structure to sort an array efficiently.  
+- **InsertionSort.java**: Implements the Insertion Sort algorithm by building the sorted array one element at a time.  
+- **MergeSortExample.java**: Demonstrates Merge Sort, a divide-and-conquer algorithm that recursively splits and merges arrays.  
+- **SelectionSortExample.java**: Implements Selection Sort, which repeatedly selects the smallest element and places it in the correct position.
+
+## 14-02-25
+- Understood *<b>File Handling<b>* different ways of reading and writing a file:
+  - Solved program on the topic:
+
+- **ByteToCharacterStream.java**: Converts byte streams to character streams for efficient data handling in Java.  
+- **CompareStringBufferStringBuilder.java**: Compares the performance and functionality of String, StringBuffer, and StringBuilder.  
+- **ConcatenateString.java**: Demonstrates different methods of concatenating strings in Java.  
+- **ConsoleToFile.java**: Redirects console input to a file for storage and later retrieval.  
+- **FileReaderExample.java**: Reads data from a file using FileReader and displays its contents.  
+- **FirstLastOccurrenceBinarySearch.java**: Finds the first and last occurrence of an element in a sorted array using binary search.  
+- **firstNegative.java**: Identifies the first negative number in a given array or subarray.  
+- **MatrixBinarySearch.java**: Searches for an element in a sorted 2D matrix using binary search.  
+- **PeakElementBinarySearch.java**: Finds a peak element in an array where an element is greater than its neighbors.  
+- **PerformanceComparison.java**: Compares the performance of different Java implementations for specific tasks.  
+- **ReverseString.java**: Reverses a given string using different methods such as loops, recursion, and StringBuilder.  
+- **RemoveDuplicates.java**: Removes duplicate elements from an array or string while maintaining order.  
+- **RotationPointBinarySearch.java**: Finds the rotation point in a rotated sorted array using binary search.  
+- **SearchAlgorithms.java**: Implements various search algorithms, including linear search and binary search.  
+- **SearchForAWord.java**: Searches for a specific word in a given text or file.  
+- **WordCountInFile.java**: Counts the number of words present in a given file.  
+
