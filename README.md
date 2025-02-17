@@ -265,31 +265,31 @@
 - Understood the working of all sorting algorithms:
   - Solved program on the topic:
   - 
-- **BubbleSort.java**: Implements the Bubble Sort algorithm to repeatedly swap adjacent elements if they are in the wrong order.  
-- **CountingSortExample.java**: Demonstrates Counting Sort, a non-comparative sorting algorithm that sorts elements based on their frequency.  
-- **HeapSortExample.java**: Implements Heap Sort using a binary heap data structure to sort an array efficiently.  
-- **InsertionSort.java**: Implements the Insertion Sort algorithm by building the sorted array one element at a time.  
-- **MergeSortExample.java**: Demonstrates Merge Sort, a divide-and-conquer algorithm that recursively splits and merges arrays.  
-- **SelectionSortExample.java**: Implements Selection Sort, which repeatedly selects the smallest element and places it in the correct position.
+- **BubbleSort.java: Implements the Bubble Sort algorithm to repeatedly swap adjacent elements if they are in the wrong order.** 
+- **CountingSortExample.java: Demonstrates Counting Sort, a non-comparative sorting algorithm that sorts elements based on their frequency.**  
+- **HeapSortExample.java: Implements Heap Sort using a binary heap data structure to sort an array efficiently.** 
+- **InsertionSort.java: Implements the Insertion Sort algorithm by building the sorted array one element at a time.**   
+- **MergeSortExample.java: Demonstrates Merge Sort, a divide-and-conquer algorithm that recursively splits and merges arrays.**   
+- **SelectionSortExample.java: Implements Selection Sort, which repeatedly selects the smallest element and places it in the correct position. ** 
 
 ## 14-02-25
 - Understood *<b>File Handling<b>* different ways of reading and writing a file:
   - Solved program on the topic:
 
-- **ByteToCharacterStream.java**: Converts byte streams to character streams for efficient data handling in Java.  
-- **CompareStringBufferStringBuilder.java**: Compares the performance and functionality of String, StringBuffer, and StringBuilder.  
-- **ConcatenateString.java**: Demonstrates different methods of concatenating strings in Java.  
-- **ConsoleToFile.java**: Redirects console input to a file for storage and later retrieval.  
-- **FileReaderExample.java**: Reads data from a file using FileReader and displays its contents.  
-- **FirstLastOccurrenceBinarySearch.java**: Finds the first and last occurrence of an element in a sorted array using binary search.  
-- **firstNegative.java**: Identifies the first negative number in a given array or subarray.  
-- **MatrixBinarySearch.java**: Searches for an element in a sorted 2D matrix using binary search.  
-- **PeakElementBinarySearch.java**: Finds a peak element in an array where an element is greater than its neighbors.  
-- **PerformanceComparison.java**: Compares the performance of different Java implementations for specific tasks.  
-- **ReverseString.java**: Reverses a given string using different methods such as loops, recursion, and StringBuilder.  
-- **RemoveDuplicates.java**: Removes duplicate elements from an array or string while maintaining order.  
-- **RotationPointBinarySearch.java**: Finds the rotation point in a rotated sorted array using binary search.  
-- **SearchAlgorithms.java**: Implements various search algorithms, including linear search and binary search.  
-- **SearchForAWord.java**: Searches for a specific word in a given text or file.  
-- **WordCountInFile.java**: Counts the number of words present in a given file.  
+- **ByteToCharacterStream.java: Converts byte streams to character streams for efficient data handling in Java.  **
+- **CompareStringBufferStringBuilder.java: Compares the performance and functionality of String, StringBuffer, and StringBuilder.  **
+- **ConcatenateString.java: Demonstrates different methods of concatenating strings in Java.  **
+- **ConsoleToFile.java: Redirects console input to a file for storage and later retrieval.  **
+- **FileReaderExample.java: Reads data from a file using FileReader and displays its contents.  **
+- **FirstLastOccurrenceBinarySearch.java: Finds the first and last occurrence of an element in a sorted array using binary search.  **
+- **firstNegative.java: Identifies the first negative number in a given array or subarray.  **
+- **MatrixBinarySearch.java: Searches for an element in a sorted 2D matrix using binary search.  **
+- **PeakElementBinarySearch.java: Finds a peak element in an array where an element is greater than its neighbors.  **
+- **PerformanceComparison.java: Compares the performance of different Java implementations for specific tasks.  **
+- **ReverseString.java: Reverses a given string using different methods such as loops, recursion, and StringBuilder.  **
+- **RemoveDuplicates.java: Removes duplicate elements from an array or string while maintaining order.  **
+- **RotationPointBinarySearch.java: Finds the rotation point in a rotated sorted array using binary search.  **
+- **SearchAlgorithms.java: Implements various search algorithms, including linear search and binary search.  **
+- **SearchForAWord.java: Searches for a specific word in a given text or file.  **
+- **WordCountInFile.java: Counts the number of words present in a given file.  **
 
