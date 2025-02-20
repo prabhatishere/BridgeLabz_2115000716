@@ -270,26 +270,83 @@
 - **HeapSortExample.java: Implements Heap Sort using a binary heap data structure to sort an array efficiently.** 
 - **InsertionSort.java: Implements the Insertion Sort algorithm by building the sorted array one element at a time.**   
 - **MergeSortExample.java: Demonstrates Merge Sort, a divide-and-conquer algorithm that recursively splits and merges arrays.**   
-- **SelectionSortExample.java: Implements Selection Sort, which repeatedly selects the smallest element and places it in the correct position. ** 
+- **SelectionSortExample.java: Implements Selection Sort, which repeatedly selects the smallest element and places it in the correct position.** 
 
 ## 14-02-25
 - Understood *<b>File Handling<b>* different ways of reading and writing a file:
   - Solved program on the topic:
 
-- **ByteToCharacterStream.java: Converts byte streams to character streams for efficient data handling in Java.  **
-- **CompareStringBufferStringBuilder.java: Compares the performance and functionality of String, StringBuffer, and StringBuilder.  **
-- **ConcatenateString.java: Demonstrates different methods of concatenating strings in Java.  **
-- **ConsoleToFile.java: Redirects console input to a file for storage and later retrieval.  **
-- **FileReaderExample.java: Reads data from a file using FileReader and displays its contents.  **
-- **FirstLastOccurrenceBinarySearch.java: Finds the first and last occurrence of an element in a sorted array using binary search.  **
-- **firstNegative.java: Identifies the first negative number in a given array or subarray.  **
-- **MatrixBinarySearch.java: Searches for an element in a sorted 2D matrix using binary search.  **
-- **PeakElementBinarySearch.java: Finds a peak element in an array where an element is greater than its neighbors.  **
-- **PerformanceComparison.java: Compares the performance of different Java implementations for specific tasks.  **
-- **ReverseString.java: Reverses a given string using different methods such as loops, recursion, and StringBuilder.  **
-- **RemoveDuplicates.java: Removes duplicate elements from an array or string while maintaining order.  **
-- **RotationPointBinarySearch.java: Finds the rotation point in a rotated sorted array using binary search.  **
-- **SearchAlgorithms.java: Implements various search algorithms, including linear search and binary search.  **
-- **SearchForAWord.java: Searches for a specific word in a given text or file.  **
-- **WordCountInFile.java: Counts the number of words present in a given file.  **
+- **ByteToCharacterStream.java: Converts byte streams to character streams for efficient data handling in Java.**
+- **CompareStringBufferStringBuilder.java: Compares the performance and functionality of String, StringBuffer, and StringBuilder.**
+- **ConcatenateString.java: Demonstrates different methods of concatenating strings in Java.**
+- **ConsoleToFile.java: Redirects console input to a file for storage and later retrieval.**
+- **FileReaderExample.java: Reads data from a file using FileReader and displays its contents.**
+- **FirstLastOccurrenceBinarySearch.java: Finds the first and last occurrence of an element in a sorted array using binary search.**
+- **firstNegative.java: Identifies the first negative number in a given array or subarray.**
+- **MatrixBinarySearch.java: Searches for an element in a sorted 2D matrix using binary search.**
+- **PeakElementBinarySearch.java: Finds a peak element in an array where an element is greater than its neighbors.**
+- **PerformanceComparison.java: Compares the performance of different Java implementations for specific tasks.**
+- **ReverseString.java: Reverses a given string using different methods such as loops, recursion, and StringBuilder.**
+- **RemoveDuplicates.java: Removes duplicate elements from an array or string while maintaining order.**
+- **RotationPointBinarySearch.java: Finds the rotation point in a rotated sorted array using binary search.**
+- **SearchAlgorithms.java: Implements various search algorithms, including linear search and binary search.**
+- **SearchForAWord.java: Searches for a specific word in a given text or file.**
+- **WordCountInFile.java: Counts the number of words present in a given file.**
+
+## 15-02-2025
+- Understood *<b>Algorithm comparisions <b>* Timings of different algorithms:
+  - Solved program on the topic:
+
+- **DataStructureSearchComparison.java: Compares the efficiency of different data structures for search operations.**  
+- **FibonacciComparison.java: Evaluates and compares different methods for generating Fibonacci numbers.**  
+- **FileReadingComparison.java: Compares the performance of various file reading techniques in Java.**  
+- **SearchComparison.java: Benchmarks and compares different search algorithms based on efficiency.**  
+- **SortingComparison.java: Analyzes the performance of various sorting algorithms.**  
+- **StringConcatenationComparison.java: Compares different string concatenation techniques for efficiency.**  
+
+## 17-02-2025
+- Understood *<b>Java Generics<b>* How to implement generics and their working:
+  - Solved program on the topic:
+    
+- **MealPlanGenerator.java: Generates meal plans based on dietary preferences, nutrition goals, and available ingredients.**  
+- **OnlineMarketplace.java: Implements an online marketplace where users can buy and sell products.**  
+- **ResumeScreeningSystem.java: Analyzes and filters resumes based on predefined criteria for automated screening.**  
+- **SmartWarehouse.java: Manages warehouse inventory using automation, tracking, and optimization techniques.**  
+- **University.java: Models a university system with students, courses, faculty, and enrollment management.**  
+
+## 20-02-2025
+- Understood *<b>Java Collections<b>*, working with different Interfaces and classes:
+  - Solved program on the topic:
+    
+- **BankingSystem.java: Implements a banking system with customer accounts, transactions, and balance tracking.**  
+- **BinaryNumbersQueue.java: Generates binary numbers using a queue-based approach.**  
+- **CheckSubset.java: Determines if one set is a subset of another.**  
+- **CircularBuffer.java: Implements a circular buffer (ring buffer) for efficient fixed-size data storage.**  
+- **CompareSets.java: Compares different set implementations based on performance and functionality.**  
+- **DataStructureSearchComparison.java: Compares the efficiency of different data structures for search operations.**  
+- **ElementsFrequency.java: Counts the frequency of elements in an array or collection.**  
+- **FibonacciComparison.java: Evaluates and compares different methods for generating Fibonacci numbers.**  
+- **FileReadingComparison.java: Compares the performance of various file reading techniques in Java.**  
+- **GroupByDepartment.java: Groups employees by department using a Map.**  
+- **HospitalTriage.java: Implements a hospital triage system using priority queues.**  
+- **InsuranceSystem.java: Manages insurance policies, policyholders, and claims processing.**  
+- **InvertMapWithoutGenerics.java: Inverts a Map<K, V> into a Map<V, List<K>> without using generics.**  
+- **MaxValueKeyFinder.java: Finds the key with the highest value in a given map.**  
+- **MergeMaps.java: Merges two maps, summing values for duplicate keys.**  
+- **NthElementInLinkedList.java: Finds the Nth element in a linked list using different approaches.**  
+- **PolicyManager.java: Manages and tracks insurance policies using various data structures.**  
+- **PolicyManager2.java: Alternative implementation of policy management with additional features.**  
+- **RemoveDuplicatesPreservingOrder.java: Removes duplicates from a list while maintaining insertion order.**  
+- **ReveresList.java: Reverses a linked list using iterative and recursive methods.**  
+- **ReverseQueue.java: Reverses a queue using different techniques.**  
+- **RotateListByK.java: Rotates a list by K positions to the left or right.**  
+- **SetPerformanceComparison.java: Compares the performance of different set implementations.**  
+- **SetToSortedList.java: Converts a set to a sorted list while preserving uniqueness.**  
+- **ShoppingCart.java: Implements a shopping cart with product management and pricing.**  
+- **StackUsingQueues.java: Implements a stack using two queues.**  
+- **StringConcatenationComparison.java: Compares different string concatenation techniques for efficiency.**  
+- **SymmetricDifference.java: Finds the symmetric difference between two sets.**  
+- **UnionAndIntersectionInSets.java: Computes the union and intersection of two sets.**  
+- **VotingSystem.java: Implements a voting system with candidate vote tracking and result sorting.**  
+- **WordFrequencyCounter.java: Counts the frequency of words in a given text or file.**  
 
